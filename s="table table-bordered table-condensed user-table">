@@ -1,0 +1,144 @@
+[33mcommit b854eac66ee3bb424d2ccfdb7157a7b67073cc61[m[33m ([m[1;36mHEAD -> [m[1;32madd-user-attendances[m[33m)[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Tue Nov 15 14:25:20 2022 +0000
+
+    10.3完了
+
+[33mcommit 4f45536172b7d8a6bc531ec275e63271ccf80812[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m, [m[1;32madd-basic-info[m[33m)[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sun Nov 6 13:35:12 2022 +0000
+
+    Finish add_basic_info
+
+[33mcommit 85e185be185f9054c3fc4b5c38ee93115af2de79[m[33m ([m[1;32mjapanization-and-time-format[m[33m)[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Wed Oct 19 14:30:17 2022 +0000
+
+    Finish japanization-and-time-format
+
+[33mcommit fa57699ae92d2cb26d69358cb925ead99ebd47f6[m[33m ([m[1;32mediting-users[m[33m)[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sat Oct 15 07:45:13 2022 +0000
+
+    Finish editing-users
+
+[33mcommit d315b80aba76e76d0f5f30ab99eb93542f370a0a[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Wed Oct 5 14:53:19 2022 +0000
+
+    Finish full-fledged-login
+
+[33mcommit 14edfe5dc54ce1e302526cb46915055293bd1afb[m[33m ([m[1;32mlogin-function[m[33m)[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Thu Sep 29 15:04:26 2022 +0000
+
+    Finish login-function
+
+[33mcommit a85a9bfe12fcf1322b480a6c67db2fef40f0bd5c[m[33m ([m[1;32msignup-user[m[33m)[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sun Sep 25 10:33:02 2022 +0000
+
+    Finish signup-user
+
+[33mcommit a1467750803c5bbaa094423bb80b234fa40d8a67[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sat Sep 17 15:04:10 2022 +0000
+
+    5.4終了
+
+[33mcommit 1d5b9d492a133f77a8eb698a6ee4b01f4bfb85a2[m[33m ([m[1;32mmodeling-user[m[33m)[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sat Sep 17 06:49:23 2022 +0000
+
+    Finish modeling-user
+
+[33mcommit cac6f67721a8fc57fc2199018452d6ccd31d0ec4[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sat Sep 17 06:19:43 2022 +0000
+
+    4.4.6終了
+
+[33mcommit b21db4efdcf16b8c31f08f030bdc3fd3ce429c1c[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Mon Sep 12 15:02:40 2022 +0000
+
+    4.4.1終了
+
+[33mcommit f5d8041ab2c105234f089a5c210bb0e50a042adb[m
+Merge: fd01c39 1238cc8
+Author: toshi <toshi621015@gmail.com>
+Date:   Sun Sep 11 13:23:21 2022 +0000
+
+    Merge branch 'page-layout'
+
+[33mcommit fd01c3934f98778db0d0a21ec4bf53539cc46e57[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sun Sep 11 13:22:51 2022 +0000
+
+    Finish page-layout
+
+[33mcommit 1238cc84c08eb88af26b870e7309da6b7b6b57bf[m[33m ([m[1;32mpage-layout[m[33m)[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sun Sep 11 13:02:04 2022 +0000
+
+    Finish psge-layout
+
+[33mcommit 3b9ba320170a3f6ff439c25503f0bb56cf7dda78[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sun Sep 11 12:52:04 2022 +0000
+
+    3.2終了
+
+[33mcommit c24b47467d979e282a80fe2fa5dba8ce727f4c58[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sun Sep 11 06:00:18 2022 +0000
+
+    Finish page-layout
+
+[33mcommit c04e49540e77fe00a1a0229ebba0a93935ff996e[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sun Sep 11 05:46:03 2022 +0000
+
+    3.4終了
+
+[33mcommit 6569b131efb61acdd7ef663340644293738bd2fd[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sun Sep 11 03:16:07 2022 +0000
+
+    Finish top-page
+
+[33mcommit fbae2fe9cd64fe924740dce4f3e5b9b4637dff55[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sun Sep 11 03:02:01 2022 +0000
+
+    static_pagesコントローラーを追加
+
+[33mcommit 000957627647b542c92a418e3ae7f4bbb0a92034[m[33m ([m[1;32mtop-page[m[33m)[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sat Sep 10 14:00:55 2022 +0000
+
+    Finish top-page
+
+[33mcommit c4d07b12ab8956de4aa4e05909cfc4a6b455e840[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sat Sep 10 05:14:37 2022 +0000
+
+    static_pagesコントローラーを追加
+
+[33mcommit 8a96b0662d9e6d337d447713baa040e8b82433d8[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sat Sep 10 03:40:44 2022 +0000
+
+    日時の設定を追加
+
+[33mcommit d6de50b27e7c0ff576dc63184f50111ee1c4f9fd[m[33m ([m[1;32mmodify-README[m[33m)[m
+Author: toshi <toshi621015@gmail.com>
+Date:   Sat Sep 10 02:33:15 2022 +0000
+
+    READMEを修正
+
+[33mcommit 7f2ae78fba37f1320055dec87e3b3b3511db1167[m
+Author: toshihiro <toshi621015@gmail.com>
+Date:   Sat Sep 3 13:49:09 2022 +0000
+
+    Initialize repository
